@@ -21,3 +21,13 @@
 #navbar li a:hover {
     background-color: #0c869b;
 }
+
+h1 {
+	font-size: 18pt;
+	color: #0c869b;
+	text-align: center;
+	padding: 18px 0 18px 0;
+	margin: 0 0 10px 0;
+    border-style: dotted;
+    border-color: #3d669e;
+}
