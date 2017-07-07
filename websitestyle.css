@@ -41,17 +41,6 @@ h2 {
 	margin: 0 0 10px 0;
 }
 
-#causes ul {
-	list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-
-#causes li {
-    float: left;
-}
-
 table {
     width: 100%;
 }
