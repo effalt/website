@@ -9,6 +9,11 @@ body {
 	text-align: center;
 }
 
+.image-caption {
+    text-align: justify;
+    width: 350px;
+}
+
 img {
 	height: 200px;
 	width: 350px;
