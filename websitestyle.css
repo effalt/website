@@ -6,6 +6,7 @@ body {
     background-color: #f1f1f1;
     padding: 15px;
     border-radius: 20px;
+	text-align: center;
 }
 
 #navbar ul {
@@ -50,3 +51,18 @@ h2 {
 #causes li {
     float: left;
 }
+
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border: 2px solid #cecece;
+    border-collapse: separate;
+    text-align: center;
+    table-layout: fixed;
+}
+.selected {
+    background-color: #0c869b;
+    font-weight: bold;
+    color: white;
