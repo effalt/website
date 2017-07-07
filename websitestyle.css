@@ -35,3 +35,12 @@ h2 {
     border-style: dotted;
     border-color: #3d669e;
 }
+
+#causes a {
+	display: block;
+	text-decoration: none;
+}
+
+#causes img {
+	border-radius: 50%;
+}
